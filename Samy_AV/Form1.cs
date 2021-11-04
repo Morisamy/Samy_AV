@@ -22,8 +22,8 @@ namespace Samy_AV
                 {
                     return BitConverter.ToString(md5.ComputeHash(Stram)).Replace("-", string.Empty).ToLower();
                 }
-            }
-        }
+    }
+}
         private void btnScan_Click(object sender, EventArgs e)
         {
             var md5Signs = File.ReadAllLines("MD5Base.txt");
