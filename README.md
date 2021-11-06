@@ -49,7 +49,7 @@ a Simple Anti Virus Scanner
 
 / MD5 Files Scan
 
-: `Morisamy` , `LoginModernUI`
+: `Morisamy` , `Samy_AV`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
