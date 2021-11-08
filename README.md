@@ -27,7 +27,9 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    
+     <li>
+      <a href="#next-steps">Next Steps</a>
+  </li>
   </ol>
 </details>
 
@@ -55,7 +57,10 @@ a Simple Anti Virus Scanner
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+### Next Steps
 
+* Planning to add more Malware's MD5 to be scanned 
+* Adding a module to scan the whole pc or a certain partition
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
